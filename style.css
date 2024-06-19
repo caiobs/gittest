@@ -1,0 +1,15 @@
+body {
+    background-color: aqua;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: antiquewhite;
+}
+
+body p {
+    color: black;
+    font-size: 2rem;
+}
+
+.text-content {
+    display: flex;
+    width: 50%;
+}
